@@ -1,1 +1,2 @@
-print()[D""[D[C)[D[Dim king[C[D[C)[D[D[C"[[[C[C)
+print("hello world")
+print ("tell his world")
